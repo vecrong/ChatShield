@@ -1,0 +1,1 @@
+var pluginConfig={name:'ChatShield',version:'0.1',author:'VecronG',frontEndPath:'ChatShield/chatshield.js'};module.exports={pluginConfig};
